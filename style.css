@@ -1,0 +1,123 @@
+html {
+    background: lightblue;
+    text-align: center;
+}
+
+
+a:link {
+ color: white;
+}
+
+a:visited {
+    color: tomato;
+}
+
+a:hover {
+    color: red;
+}
+
+
+
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+#logo {
+    color: coral;
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.option {
+    float: left;
+    min-width: 100px;
+    height: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 2px dotted black;
+}
+
+.option:hover {
+    background-color: black; 
+}
+
+#topbar {
+    
+}
+
+#footer {
+    
+}
+
+#photo img {
+    width: 100%;
+    height: 50%;
+        
+}
+
+#history {
+    color: blueviolet;
+    text-align: center;
+}
+
+#trophy {
+    color:blueviolet;
+    text-align: center;
+}
+
+#derby {
+    color:blueviolet;
+    text-align: center;
+}
+
+#stadium {
+    color:blueviolet;
+    text-align: center;
+}
+
+#arms {
+    color:blueviolet;
+    text-align: center;
+}
+
+#anthem {
+    color:blueviolet;
+    text-align: center;
+}
+
+#records {
+    color:blueviolet;
+    text-align: center;
+}
+
+
+#thanks {
+    color: darkblue;
+    text-align: center;
+    font-size: 69px;
+}
+
+.herby {
+    text-align: center;
+}
+
+#tabela {
+    border: 5px solid black;
+    
+}
+
+#tabela td {
+    border: 1px solid black;
+    background-color: palegreen;
+}
+
+#tabela th {
+    border: 1px solid black;
+    background-color: yellowgreen;
+}
